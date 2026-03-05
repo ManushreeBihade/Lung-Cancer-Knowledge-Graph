@@ -1,0 +1,252 @@
+source,target,relation,weight
+KDM5B,TEX264,inhibition,1
+TNF,PIK3CA,suggested possible shared genetic causality,1
+VEGFA,CCR7,binding,1
+ALK,ROS1,detected with,1
+ALK,EGFR,harboring,1
+ALK,RET,detected with,1
+ROS1,RET,detected with,1
+EGFR,ALK,harboring,1
+EGFR,TP53,associated with,1
+EGFR,PTEN,associated with,1
+EGFR,KRAS,affecting,1
+EGFR,COX-2,inhibition of,1
+EGFR,HER2,co-localized with,1
+EGFR,EHDPP,binds to,1
+EGFR,MYC,correlated with,1
+EGFR,MAPK1,inhibition of,1
+EGFR,S768I/V769L,mutated,1
+EGFR,C797S,correlated with,1
+EGFR,E19del,tested positive for,1
+EGFR,CTNNB1,associated with,1
+EGFR,HER2/ErbB2,associated with,1
+EGFR,ALR2,reduced,1
+ASCL1,NEUROD1,increased,1
+ASCL1,SSTR2,increased,1
+DLL3,BCL2,increased,1
+TP53,ALK,being the most common co-mutation partner,1
+TP53,EGFR,co-mutations,1
+TP53,KRAS,associated with,1
+TP53,STK11,co-occurring,1
+TP53,SCLC-BM,mutated in,1
+TP53,chemotherapy,interacts with,1
+TP53,bax,upregulation of,1
+BAX,CASP-9,upregulation of,1
+BCL-2,MTOR,downregulation of,1
+MTOR,BIRC5,downregulation of,1
+ACE2,NF-κB1,increasing,1
+NF-κB1,CCL2,increasing,1
+HAI-1,HAI-2,links,1
+S6K1,STAT3,restored,1
+PIK3CA,KRAS,associated with,1
+RRM1,DAC,enhances,1
+RNR,DAC,led to increased incorporation of,1
+PMS2,ERCC2,implicating functional compromise of,1
+PTEN,PAX7,associated with,1
+PTEN,DOCK3,associated with,1
+RB1,HDAC1,influences,1
+RB1,SCLC-BM,mutated in,1
+RB1,E2F1,disrupted its inhibition of,1
+KRAS,TP53,co-occurrence of,1
+KRAS,STK11,associated with,1
+KRAS,CDKN2A,associated with,1
+KRAS,G12D,shows,1
+KRAS,BRAF,predominated,1
+KRAS,AMD1,reduces,1
+KRAS,G12C,shows,1
+STK11,KRAS,enriched for,1
+KEAP1,KRAS,enriched for,1
+LINC01116,YBX1,promoted the direct interaction between,1
+LINC01116,HIF1A,enhanced,1
+LINC01116,USP22,upregulated,1
+YBX1,LINC01116,mediated through,1
+YBX1,HIF1A,facilitating,1
+YBX1,USP22,recruiting,1
+miR-29,ATX,regulates,1
+miR-34a,IL6,exerted a suppressive effect on,1
+miR-34a,Bax,upregulated,1
+miR-34a,Bcl-2,downregulating,1
+miR-34a,FOXO3,exerted a suppressive effect on,1
+miR-34a,TNFα,exerted a suppressive effect on,1
+miR-182,Bax,enhanced,1
+miR-182,Bcl-2,enhanced,1
+SATB2,LCN2,repress,1
+LCN2,SATB2,rescue,1
+BID,COX7A2,linked to,1
+FOXO1,PTEN,associated with,1
+FOXO1,PAX7,associated with,1
+FOXO1,DOCK3,associated with,1
+PAX7,DOCK3,associated with,1
+METTL1,NET1,identified as a target of,1
+METTL1,NSCLC,associated with,1
+HMGB1,METTL1,upregulated,1
+DNMT1,OSGIN1,activates,1
+ROLLCSC,CDC42,interact with,1
+ROLLCSC,ACSL4,targeting,1
+ROLLCSC,Slc25a11,targeting,1
+SAM486A,AMD1,enhanced,1
+STAT3,HIF1A,coordinating,1
+HMGA2,Bcl-2,upregulated,1
+HMGA2,VEGF,indicated,1
+HMGA2,MMP-9,indicated,1
+SMO,Gli1,targeting,1
+MOCCI,GDF15,correlated with,1
+GDF15,TGFBR2,drives,1
+KIF5B,CDKN2A,associated with,1
+bcl-2,bax,downregulation of,1
+EML4,ALK,gene rearrangement,1
+SPP1,CD44,as a key ligand-receptor pair,1
+SPP1,MIF,interacted with,1
+RESISTIN,CAP1,as a key ligand-receptor pair,1
+CD44,prognosis,correlated with,1
+CD74,prognosis,correlated with,1
+ΔNp63α,PHGDH,transactivating,1
+ΔNp63α,PSAT1,transactivating,1
+ΔNp63α,PSPH,transactivating,1
+ΔNp63α,SLC1A4,transactivating,1
+PD-L1,TRAF6,interacted with,1
+PD-L1,BECN1,interacted with,1
+TRAF6,BECN1,promoting,1
+circ_0017521,miR-532-3p,competitively bound to,1
+circ_0017521,PFKFB3,activated,1
+miR-532-3p,PFKFB3,relieving its suppression of,1
+WTAP,GCH1,mediated,1
+stat3,GPX4,regulate,1
+HSPA5,CAV1,interacts with,1
+CCDC6,RET,fusions represent,1
+p53,YAP/TAZ,regulatory effect on,1
+YAP,c-Myc,suppressing,1
+sortilin,EGFR,interacts with,1
+sortilin,cMYC,binding to,1
+LINC01583,CHD8,regulated,1
+LINC01583,miR-4640-5p,acts as a molecular sponge for,1
+MST4,PPP4C,interact with,1
+MST4,YAP1,induced phosphorylation and cytoplasmic degradation of,1
+SMARCA4,EGFR,conferred a poorer response for,1
+SMARCA4,TP53,occurred in samples carried,1
+SMARCA4,KRAS,enriched for,1
+SMARCA4,SMARCAD1,is a transcriptional suppressor of,1
+NKX2-1,KRAS,enriched for,1
+CDKN2A,KRAS,enriched for,1
+MLKL,SCLC,associated with,1
+miR-20a-5p,circ_001895,interacts with,1
+miR-20a-5p,JAK1,interacts with,1
+NFκB,NLRP3,regulates,1
+Shox2,EGFR,mutual exclusivity with,1
+Shox2,KRAS,correlated with,1
+Shox2,MET,correlated with,1
+Shox2,RET,mutual exclusivity with,1
+Shox2,HER2,mutual exclusivity with,1
+LINE-1,RB1,implicating,1
+LINE-1,NEDD4,implicating,1
+LINE-1,FTO,implicating,1
+LINE-1,LAMA2,implicating,1
+LINE-1,NOD1,implicating,1
+LINE-1,KCNB2,implicating,1
+TG,ROS1,correlation,1
+E-cadherin,EpCAM,upregulated,1
+EZH2,GATA5,increased expression of,1
+EZH2,FOXA2,increased expression of,1
+EZH2,EED,increased expression of,1
+EZH2,SUZ12,increased expression of,1
+EZH2,CBX2,increased expression of,1
+EZH2,RING1,increased expression of,1
+EZH2,HLA-A/B,promote,1
+EZH2,SLFN11,promote,1
+Pik3ca,Kras,required for,1
+L1CAM,NCAM1,interacting with,1
+L1CAM,ITGB3,associated with,1
+BEX1,MAP1b,downregulation of,1
+MAP1b,BEX1,downregulation of,1
+Bax,Casp8,increased the expression of,1
+Bax,Casp9,increased the expression of,1
+Casp8,Casp9,increased the expression of,1
+Casp9,Bcl2,increased the expression of,1
+MIF-AS1,RAD21,target gene of,1
+NRG1,SMAD4,engaged in,1
+NRG1,hsa-miR-5010-5p,engaged in,1
+SMAD4,hsa-miR-5010-5p,engaged in,1
+hsa-miR-149-5p,NLRC5,regulator of,1
+NLRC5,MHC-I,reduced,1
+DNAPKcs,MYC,leads to proteasomal degradation of,1
+KLF6,CTGF,regulates,1
+CTGF,FGFR3,activates,1
+COX-2,MAPK1,inhibition of,1
+BACH2,GRSF1,exerted protective effects by promoting,1
+RACGAP1,p53,disables,1
+RACGAP1,MDM2,upregulating,1
+circ-UBR5,HNRNPR,increased,1
+PLA2G2D,CST2,suppressing,1
+MUC6,ITLN1,suppressed,1
+MUC6,AREG,suppressed,1
+EP300,H2BK5ac,overexpression restores,1
+H2BK5ac,HSPA1A,binds to,1
+EIF3D,NCOA4,targets,1
+CHD9,MYBBP1A,promoting,1
+CYTOR,ceRNA,function as,1
+hsa-let-7c-5p,CD168,mediated suppression of,1
+CTSL,HMOX1,altered by,1
+IL-7,E-cadherin,down-regulates,1
+IL-7,N-cadherin,up-regulates,1
+IL-7,Vimentin,up-regulates,1
+IL-7,Snail1,up-regulates,1
+IL-7,Notch1,induces the expression of,1
+IL-7,TGF-β,induces the expression of,1
+IL-7R,survival,is the strongest predictor of,1
+BRD4,PRAME,contributes to,1
+BRD4::NUTM1,PRAME,knockout in,1
+Atg5,miR-296-3p,plays a critical role in,1
+PLK3,PTEN,stabilizes,1
+PLK3,HIF-1α,negatively regulates,1
+PLK3,SIAH2,correlation,1
+HIF-1α,SIAH2,correlation,1
+TIMELESS,CNOT3,bind,1
+TIMELESS,TF,governing,1
+circTNIK,GRP78,interacts with,1
+GRP78,ID2,binds to,1
+Q134L,tubulin,perturbs,1
+Q426E,tubulin,perturbs,1
+D177H,tubulin,preserved,1
+G269S,tubulin,promoted,1
+NPM1,EGFR,binding to,1
+OGT,POM121,drives,1
+POM121,c-MYC,enhances,1
+POM121,TRIM21,attenuates,1
+TET2,ARG1,upregulates,1
+ATM,KRAS,predominated,1
+LC,COPD,correlated with,1
+MTN,migration,suppressing,1
+circ_0001839,MYCL,potentiates the oncogenic effects of,1
+Fdft1,DAPL1,correlate well with,1
+Pcyt1a,DAPL1,correlate well with,1
+Sptlc1,DAPL1,correlate well with,1
+Np63,DAPL1,activates,1
+GRα,DAPL1,activates,1
+RGPD1,RGPD2,associated with,1
+MIR1974,KIAA0825,associated with,1
+ZNF74,cg08976633,associated with,1
+RORγ,NGF,stimulates,1
+LIF,hypoxia,correlates with,1
+LIF,angiogenesis,correlates with,1
+BECN1,HoCIC,correlated with,1
+STK11/LKB1,GDF15,reverses,1
+CXCL8,TNF,increased,1
+CXCL8,IL1α,increased,1
+CXCL8,GM-CSF,increased,1
+EGR1,CTGF,increased,1
+EGR1,TNC,increased,1
+EGR1,COL1A1,increased,1
+MLH1,PMS2,loss of,1
+SAMHD1,DUSP6-ERK1/2,regulates,1
+Il17a,IL-17A,identifying,1
+hMOF,H4K16ac,activating,1
+curcumin,hMOF,interact with,1
+FUBP3,STAT3,interacts with,1
+FUBP3,Twist1,correlated with,1
+Pdlim5,ACTN1/ACTN4,interacts with,1
+RNF125,DDX5,reduced,1
+RORA,ZNF490,promotes,1
+ZNF490,NUDFs,inhibits,1
+ER,EGFR,associated with,1
+miR-29a-3p,miR-542-3p,highlighting,1
+AXL,FGFR1,inhibited,1

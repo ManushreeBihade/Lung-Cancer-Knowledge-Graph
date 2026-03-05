@@ -1,0 +1,407 @@
+gene_1,relation,gene_2,disease,PMID
+KDM5B,negatively correlated with,TEX264,Lung Cancer,41763483
+KDM5B,inhibition,TEX264,Lung Cancer,41763483
+TNF,suggested possible shared genetic causality,PIK3CA,Lung Cancer,41761800
+VEGFA,binding,CCR7,Lung Cancer,41759559
+ALK,detected with,RET,Lung Cancer,41763606
+ALK,detected with,ROS1,Lung Cancer,41763606
+ROS1,detected with,RET,Lung Cancer,41763606
+EGFR,demonstrated a trend toward shorter OS compared to,EGFR amplification,Lung Cancer,41763064
+EGFR,had significantly shorter median PFS,EGFR amplification,Lung Cancer,41763064
+EGFR,had significantly shorter OS,EGFR amplification,Lung Cancer,41763064
+EGFR L858R,had concurrent,EGFR amplification,Lung Cancer,41763064
+ASCL1,increased,NEUROD1,Lung Cancer,41761743
+DLL3,increased,BCL2,Lung Cancer,41761743
+ASCL1,increased,SSTR2,Lung Cancer,41761743
+EGFR 21,affected,NCOM,Lung Cancer,41761417
+EGFR 21,was significantly longer than,NCOM,Lung Cancer,41761417
+TP53,blocks the activity of,wild-type p53,Lung Cancer,41756828
+BAX,upregulation of,CASP-9,Lung Cancer,41754744
+BCL-2,downregulation of,MTOR,Lung Cancer,41754744
+MTOR,downregulation of,BIRC5,Lung Cancer,41754744
+ACE2,increasing,NF-κB1,Lung Cancer,41754744
+NF-κB1,increasing,CCL2,Lung Cancer,41754744
+TP53,associated with,EGFR,Lung Cancer,41753239
+HAI-1,links,HAI-2,Lung Cancer,41752136
+S6K1,regulates,STAT3,Lung Cancer,41752050
+S6K1,downregulated,STAT3,Lung Cancer,41752050
+S6K1,reduced,STAT3,Lung Cancer,41752050
+S6K1,restored,STAT3,Lung Cancer,41752050
+TP53,being the most common co-mutation partner,EGFR,Lung Cancer,41751593
+TP53,being the most common co-mutation partner,ALK,Lung Cancer,41751593
+PIK3CA,associated with,KRAS,Lung Cancer,41751261
+RRM1,inversely correlated with,DAC,Lung Cancer,41748545
+RRM1,enhances,DAC,Lung Cancer,41748545
+RNR,led to increased incorporation of,DAC,Lung Cancer,41748545
+TP53,mutated in,BM,Lung Cancer,41747607
+H3F3A,mutated in,BM,Lung Cancer,41747607
+PMS2,mutated in,BM,Lung Cancer,41747607
+PTEN,mutations in,BM,Lung Cancer,41747607
+EGFR,mutations in,BM,Lung Cancer,41747607
+NF1,mutations in,BM,Lung Cancer,41747607
+TP53,mutated in,SCLC-BM,Lung Cancer,41747607
+RB1,mutated in,SCLC-BM,Lung Cancer,41747607
+IL6,linked to,lung cancer,Lung Cancer,41747289
+IL6R,associated with,lung cancer,Lung Cancer,41747289
+EGFR,favor,brain metastasis,Lung Cancer,41743381
+KRAS,linked to,"bone, liver, and multiple lung metastases",Lung Cancer,41743381
+TP53,increase,multi-organ metastatic risk,Lung Cancer,41743381
+STK11,increase,multi-organ metastatic risk,Lung Cancer,41743381
+KEAP1,increase,multi-organ metastatic risk,Lung Cancer,41743381
+LINC01116,enhanced,HIF1A,Lung Cancer,41740687
+LINC01116,promoted the direct interaction between,YBX1,Lung Cancer,41740687
+YBX1,facilitating,HIF1A,Lung Cancer,41740687
+LINC01116,upregulated,USP22,Lung Cancer,41740687
+YBX1,recruiting,USP22,Lung Cancer,41740687
+YBX1,mediated through,LINC01116,Lung Cancer,41740687
+Rnd3,modulates,alpha 5 integrin,Lung Cancer,41735013
+miR-29,associated with,ATX,Lung Cancer,41739590
+miR-29,regulates,ATX,Lung Cancer,41739590
+miR-34a,upregulated,Bax,Lung Cancer,41739360
+miR-34a,downregulating,Bcl-2,Lung Cancer,41739360
+miR-182,enhanced,Bax,Lung Cancer,41739360
+miR-182,enhanced,Bcl-2,Lung Cancer,41739360
+miR-34a,exerted a suppressive effect on,IL6,Lung Cancer,41739360
+miR-34a,exerted a suppressive effect on,FOXO3,Lung Cancer,41739360
+miR-34a,exerted a suppressive effect on,TNFα,Lung Cancer,41739360
+miR-182,promoted the expression of,genes associated with autophagic activity,Lung Cancer,41739360
+CLK1,correlated with,prolonged survival,Lung Cancer,41737282
+CLK1,inhibits,cancer cell proliferation,Lung Cancer,41737282
+CLK1,associated with,increased tumor mutational burden,Lung Cancer,41737282
+CLK1,associated with,greater sensitivity to chemotherapy,Lung Cancer,41737282
+SATB2,bind,LCN2,Lung Cancer,41736683
+SATB2,repress,LCN2,Lung Cancer,41736683
+LCN2,rescue,SATB2,Lung Cancer,41736683
+BID,linked to,COX7A2,Lung Cancer,41732265
+echinoderm microtubule-associated protein-like 4,co-occurrence of,anaplastic lymphoma kinase,Lung Cancer,41731828
+anaplastic lymphoma kinase,co-occurrence of,MET exon 14 skipping mutation,Lung Cancer,41731828
+Mtp53,enhances,tumor immunogenicity,Lung Cancer,41727427
+FOXO1,associated with,PTEN,Lung Cancer,41727334
+FOXO1,associated with,PAX7,Lung Cancer,41727334
+FOXO1,associated with,DOCK3,Lung Cancer,41727334
+PTEN,associated with,PAX7,Lung Cancer,41727334
+PTEN,associated with,DOCK3,Lung Cancer,41727334
+PAX7,associated with,DOCK3,Lung Cancer,41727334
+METTL1,associated with,NSCLC,Lung Cancer,41723107
+HMGB1,upregulated,METTL1,Lung Cancer,41723107
+METTL1,identified as a target of,NET1,Lung Cancer,41723107
+NET1,activated,AKT/NF-κB pathway,Lung Cancer,41723107
+TP53,associated with,better time to relapse,Lung Cancer,41723072
+KEAP1,associated with,worse outcomes,Lung Cancer,41723072
+STK11,correlated with,better outcomes,Lung Cancer,41723072
+TP53,interacts with,chemotherapy,Lung Cancer,41723072
+KEAP1,associate with,worse outcomes,Lung Cancer,41723072
+LKB1,promotes,ferroptosis resistance,Lung Cancer,41722660
+DNMT1,disrupts,ferroptosis tolerance,Lung Cancer,41722660
+DNMT1,activates,OSGIN1,Lung Cancer,41722660
+ROLLCSC,interact with,CDC42,Lung Cancer,41716631
+ROLLCSC,targeting,ACSL4,Lung Cancer,41716631
+ROLLCSC,targeting,Slc25a11,Lung Cancer,41716631
+KRAS,reduces,AMD1,Lung Cancer,41715254
+SAM486A,enhanced,AMD1,Lung Cancer,41715254
+STAT3,correlated with,HIF1A,Lung Cancer,41714375
+STAT3,coordinating,HIF1A,Lung Cancer,41714375
+HMGA2,upregulated,Bcl-2,Lung Cancer,41713747
+HMGA2,indicated,VEGF,Lung Cancer,41713747
+HMGA2,indicated,MMP-9,Lung Cancer,41713747
+SMO,targeting,Gli1,Lung Cancer,41713747
+MOCCI,correlated with,GDF15,Lung Cancer,41711463
+GDF15,drives,TGFBR2,Lung Cancer,41711463
+TGFBR2,suppresses,B-cell activation,Lung Cancer,41711463
+CTCF,correlates with,mutation patterns,Lung Cancer,41707998
+SP1,correlates with,mutation patterns,Lung Cancer,41707998
+KIF5B,associated with,CDKN2A,Lung Cancer,41707338
+TP53,upregulation of,bax,Lung Cancer,41706370
+bcl-2,downregulation of,bax,Lung Cancer,41706370
+Chd2,suppressed,tumor initiation,Lung Cancer,41705258
+Tnfaip3,enhanced,tumor initiation,Lung Cancer,41705258
+Egr1,suppressing,tumor growth,Lung Cancer,41705258
+EML4,gene rearrangement,ALK,Lung Cancer,41705094
+SPP1,interacted with,MIF,Lung Cancer,41704746
+SPP1,as a key ligand-receptor pair,CD44,Lung Cancer,41704746
+RESISTIN,as a key ligand-receptor pair,CAP1,Lung Cancer,41704746
+CD44,correlated with,prognosis,Lung Cancer,41704746
+CD74,correlated with,prognosis,Lung Cancer,41704746
+ΔNp63α,transactivating,PHGDH,Lung Cancer,41702885
+ΔNp63α,transactivating,PSAT1,Lung Cancer,41702885
+ΔNp63α,transactivating,PSPH,Lung Cancer,41702885
+ΔNp63α,transactivating,SLC1A4,Lung Cancer,41702885
+PD-L1,interacted with,TRAF6,Lung Cancer,41699717
+PD-L1,interacted with,BECN1,Lung Cancer,41699717
+TRAF6,promoting,BECN1,Lung Cancer,41699717
+circ_0017521,competitively bound to,miR-532-3p,Lung Cancer,41699263
+miR-532-3p,relieving its suppression of,PFKFB3,Lung Cancer,41699263
+circ_0017521,activated,PFKFB3,Lung Cancer,41699263
+WTAP,regulated,GCH1,Lung Cancer,41697851
+WTAP,mediated,GCH1,Lung Cancer,41697851
+stat3,regulate,GPX4,Lung Cancer,41696740
+HSPA5,interacts with,CAV1,Lung Cancer,41696233
+CCDC6,fusions represent,RET,Lung Cancer,41694974
+p53,regulatory effect on,YAP/TAZ,Lung Cancer,41692243
+YAP,suppressing,c-Myc,Lung Cancer,41692243
+CACNA2D2,suppress,malignant phenotypes,Lung Cancer,41691850
+CACNA2D2,enhanced,malignant phenotypes,Lung Cancer,41691850
+sortilin,interacts with,EGFR,Lung Cancer,41691060
+sortilin,binding to,cMYC,Lung Cancer,41691060
+LINC01583,regulated,CHD8,Lung Cancer,41690561
+LINC01583,acts as a molecular sponge for,miR-4640-5p,Lung Cancer,41690561
+MST4,interact with,PPP4C,Lung Cancer,41690452
+MST4,induced phosphorylation and cytoplasmic degradation of,YAP1,Lung Cancer,41690452
+STK11,enriched for,KRAS,Lung Cancer,41690367
+KEAP1,enriched for,KRAS,Lung Cancer,41690367
+SMARCA4,enriched for,KRAS,Lung Cancer,41690367
+NKX2-1,enriched for,KRAS,Lung Cancer,41690367
+CDKN2A,enriched for,KRAS,Lung Cancer,41690367
+MLKL,associated with,SCLC,Lung Cancer,41689318
+MLKL,plays a crucial role in,SCLC progression,Lung Cancer,41689318
+miR-20a-5p,interacts with,circ_001895,Lung Cancer,41686469
+miR-20a-5p,interacts with,JAK1,Lung Cancer,41686469
+circ_001895,stimulated,M2 macrophage polarization,Lung Cancer,41686469
+NFκB,regulates,NLRP3,Lung Cancer,41686310
+Shox2,correlated with,KRAS,Lung Cancer,41684591
+Shox2,correlated with,MET,Lung Cancer,41684591
+Shox2,mutual exclusivity with,EGFR,Lung Cancer,41684591
+Shox2,mutual exclusivity with,RET,Lung Cancer,41684591
+Shox2,mutual exclusivity with,HER2,Lung Cancer,41684591
+EGFR,co-localized with,HER2,Lung Cancer,41681946
+LINE-1,implicating,RB1,Lung Cancer,41681929
+LINE-1,implicating,NEDD4,Lung Cancer,41681929
+LINE-1,implicating,FTO,Lung Cancer,41681929
+LINE-1,implicating,LAMA2,Lung Cancer,41681929
+LINE-1,implicating,NOD1,Lung Cancer,41681929
+LINE-1,implicating,KCNB2,Lung Cancer,41681929
+TG,correlation,ROS1,Lung Cancer,41681847
+E-cadherin,upregulated,EpCAM,Lung Cancer,41679471
+EZH2,associated with,lung cancer,Lung Cancer,41677721
+EZH2,increased expression of,GATA5,Lung Cancer,41677721
+EZH2,increased expression of,FOXA2,Lung Cancer,41677721
+EZH2,increased expression of,EED,Lung Cancer,41677721
+EZH2,increased expression of,SUZ12,Lung Cancer,41677721
+EZH2,increased expression of,CBX2,Lung Cancer,41677721
+EZH2,increased expression of,RING1,Lung Cancer,41677721
+Pik3ca,required for,Kras,Lung Cancer,41676515
+L1CAM,interacting with,NCAM1,Lung Cancer,41675572
+L1CAM,associated with,ITGB3,Lung Cancer,41675572
+EGFR,harboring,ALK,Lung Cancer,41675516
+ALK,harboring,EGFR,Lung Cancer,41675516
+BEX1,downregulation of,MAP1b,Lung Cancer,41674970
+MAP1b,downregulation of,BEX1,Lung Cancer,41674970
+Bax,increased the expression of,Casp8,Lung Cancer,41674174
+Bax,increased the expression of,Casp9,Lung Cancer,41674174
+Casp8,increased the expression of,Casp9,Lung Cancer,41674174
+Casp9,increased the expression of,Bcl2,Lung Cancer,41674174
+MIF-AS1,target gene of,RAD21,Lung Cancer,41673451
+EGFR,binds to,EHDPP,Lung Cancer,41671956
+EGFR,inhibits,ubiquitination-mediated degradation,Lung Cancer,41671956
+EGFR,stabilizing,EGFR protein,Lung Cancer,41671956
+EGFR,activating,PI3K-AKT signaling pathway,Lung Cancer,41671956
+RB1,facilitates,E2F1,Lung Cancer,41671907
+RB1,influences,HDAC1,Lung Cancer,41671907
+HDAC1,influencing,lamin A/C,Lung Cancer,41671907
+NRG1,engaged in,SMAD4,Lung Cancer,41671297
+NRG1,engaged in,hsa-miR-5010-5p,Lung Cancer,41671297
+SMAD4,engaged in,hsa-miR-5010-5p,Lung Cancer,41671297
+KRAS,co-occurring,TP53,Lung Cancer,41670818
+KRAS,co-occurring,STK11,Lung Cancer,41670818
+TP53,co-occurring,STK11,Lung Cancer,41670818
+hsa-miR-149-5p,regulator of,NLRC5,Lung Cancer,41670462
+NLRC5,reduced,MHC-I,Lung Cancer,41670462
+DNAPKcs,causes activation of,cGAS/STING pathway,Lung Cancer,41667501
+DNAPKcs,leads to proteasomal degradation of,MYC,Lung Cancer,41667501
+KLF6,regulates,CTGF,Lung Cancer,41667240
+CTGF,activates,FGFR3,Lung Cancer,41667240
+EGFR,inhibition of,COX-2,Lung Cancer,41666774
+EGFR,inhibition of,MAPK1,Lung Cancer,41666774
+COX-2,inhibition of,MAPK1,Lung Cancer,41666774
+BACH2,promoted,GRSF1,Lung Cancer,41665976
+BACH2,exerted protective effects by promoting,GRSF1,Lung Cancer,41665976
+MUC16,may contribute to,lung cancer,Lung Cancer,41664054
+EGFR,observed,S768I/V769L,Lung Cancer,41660509
+EGFR,considered,S768I/V769L,Lung Cancer,41660509
+EGFR,mutated,S768I/V769L,Lung Cancer,41660509
+KRAS,exhibited,TP53,Lung Cancer,41660470
+EZH2,promote,HLA-A/B,Lung Cancer,41659399
+EZH2,promote,SLFN11,Lung Cancer,41659399
+EZH1/2,reactivated,Class I MHC,Lung Cancer,41659399
+EGFR,affecting,KRAS,Lung Cancer,41659270
+PMS2,implicating functional compromise of,ERCC2,Lung Cancer,41659267
+RACGAP1,upregulating,MDM2,Lung Cancer,41659265
+RACGAP1,disables,p53,Lung Cancer,41659265
+EGFR,correlated with,C797S,Lung Cancer,41659259
+EGFR,correlated with,MYC,Lung Cancer,41659259
+TP53,co-mutations,EGFR,Lung Cancer,41659257
+TP53,co-mutations,KRAS,Lung Cancer,41659257
+circ-UBR5,binds to,HNRNPR,Lung Cancer,41659252
+circ-UBR5,increased,HNRNPR,Lung Cancer,41659252
+KRAS,tested positive for,G12C,Lung Cancer,41658662
+EGFR,tested positive for,E19del,Lung Cancer,41658662
+PLA2G2D,suppressing,CST2,Lung Cancer,41654000
+MUC6,suppressed,ITLN1,Lung Cancer,41654000
+MUC6,suppressed,AREG,Lung Cancer,41654000
+EP300,downregulates,H2BK5ac,Lung Cancer,41653856
+H2BK5ac,binds to,HSPA1A,Lung Cancer,41653856
+EP300,overexpression restores,H2BK5ac,Lung Cancer,41653856
+HSPA1A,overexpression in,EP300-deficient cells,Lung Cancer,41653856
+EIF3D,regulates the activation of,NCOA4,Lung Cancer,41653617
+EIF3D,targets,NCOA4,Lung Cancer,41653617
+CHD9,promoting,MYBBP1A,Lung Cancer,41652220
+CD168,associated with,overall survival,Lung Cancer,41652128
+CD168,correlated with,immune cell infiltration patterns,Lung Cancer,41652128
+CD168,correlated with,immune checkpoint molecule expression,Lung Cancer,41652128
+CYTOR,function as,ceRNA,Lung Cancer,41652128
+hsa-let-7c-5p,mediated suppression of,CD168,Lung Cancer,41652128
+CD168,promotes,LUAD progression,Lung Cancer,41652128
+TP53,significantly predicted,OS,Lung Cancer,41649698
+EGFR,significantly predicted,OS,Lung Cancer,41649698
+PIK3CA,significantly predicted,OS,Lung Cancer,41649698
+ARID1A,significantly predicted,OS,Lung Cancer,41649698
+STK11,significantly predicted,OS,Lung Cancer,41649698
+MET,significantly predicted,OS,Lung Cancer,41649698
+KDM2A,binds,CpG island enriched promoters,Lung Cancer,41648535
+KDM2A,correlates with,transcriptional activation,Lung Cancer,41648535
+KDM2A,targets,oxidative phosphorylation genes,Lung Cancer,41648535
+CTSL,altered by,HMOX1,Lung Cancer,41645201
+IL-7,down-regulates,E-cadherin,Lung Cancer,41644700
+IL-7,up-regulates,N-cadherin,Lung Cancer,41644700
+IL-7,up-regulates,Vimentin,Lung Cancer,41644700
+IL-7,up-regulates,Snail1,Lung Cancer,41644700
+IL-7,induces the expression of,Notch1,Lung Cancer,41644700
+IL-7,induces the expression of,TGF-β,Lung Cancer,41644700
+E-cadherin,is correlated with,patients' survival,Lung Cancer,41644700
+IL-7R,is the strongest predictor of,survival,Lung Cancer,41644700
+BRD4,contributes to,PRAME,Lung Cancer,41644270
+BRD4::NUTM1,enhanced,PRAME,Lung Cancer,41644270
+BRD4::NUTM1,knockout in,PRAME,Lung Cancer,41644270
+Atg5,plays a critical role in,miR-296-3p,Lung Cancer,41643612
+PLK3,negatively regulates,HIF-1α,Lung Cancer,41641554
+PLK3,destabilizing,SIAH2,Lung Cancer,41641554
+PLK3,stabilizes,PTEN,Lung Cancer,41641554
+PLK3,regulates,SIAH2,Lung Cancer,41641554
+PLK3,correlation,SIAH2,Lung Cancer,41641554
+HIF-1α,correlation,SIAH2,Lung Cancer,41641554
+TIMELESS,bind,CNOT3,Lung Cancer,41641368
+TIMELESS,governing,TF,Lung Cancer,41641368
+SMARCA4,bound to,SMARCAD1,Lung Cancer,41641123
+SMARCA4,is a transcriptional suppressor of,SMARCAD1,Lung Cancer,41641123
+STAT2,regulator of,immune function,Lung Cancer,41640190
+KRAS,shows,G12C,Lung Cancer,41637523
+KRAS,shows,G12D,Lung Cancer,41637523
+G12D,enhances,tumor antigen presentation,Lung Cancer,41637523
+G12D,activates,T cells,Lung Cancer,41637523
+circTNIK,interacts with,GRP78,Lung Cancer,41635938
+GRP78,binds to,ID2,Lung Cancer,41635938
+Q134L,perturbs,tubulin,Lung Cancer,41633276
+Q426E,perturbs,tubulin,Lung Cancer,41633276
+D177H,preserved,tubulin,Lung Cancer,41633276
+G269S,promoted,tubulin,Lung Cancer,41633276
+KRAS,showed with a higher proportion of,G12C mutations,Lung Cancer,41633085
+KRAS,achieved significantly longer median PFS compared to,non-G12C subtypes,Lung Cancer,41633085
+NPM1,binding to,EGFR,Lung Cancer,41632872
+OGT,drives,POM121,Lung Cancer,41629644
+POM121,attenuates,TRIM21,Lung Cancer,41629644
+POM121,enhances,c-MYC,Lung Cancer,41629644
+c-MYC,orchestrates,ECM-related genes,Lung Cancer,41629644
+OGT,positively correlate with,adverse clinical outcomes,Lung Cancer,41629644
+POM121,positively correlate with,adverse clinical outcomes,Lung Cancer,41629644
+c-MYC,positively correlate with,adverse clinical outcomes,Lung Cancer,41629644
+TET2,upregulates,ARG1,Lung Cancer,41624845
+EGFR,involved,TP53,Lung Cancer,41624150
+KRAS,involved,TP53,Lung Cancer,41624150
+EGFR,predominated,TP53,Lung Cancer,41624150
+KRAS,predominated,BRAF,Lung Cancer,41624150
+ATM,predominated,KRAS,Lung Cancer,41624150
+LC,correlated with,COPD,Lung Cancer,41624060
+CD27,increasing,B cells,Lung Cancer,41623454
+CXCL16,is causally linked to,LUAD risk,Lung Cancer,41622242
+CXCL16,promoted,LUAD progression,Lung Cancer,41622242
+CXCL16,promotes,macrophage senescence,Lung Cancer,41622242
+RB1,disrupted its inhibition of,E2F1,Lung Cancer,41620756
+GRIA1,significantly associated with,LUAD,Lung Cancer,41620594
+BTK,significantly associated with,LUAD,Lung Cancer,41620594
+CLCA1,significantly associated with,LUAD,Lung Cancer,41620594
+PDGFB,significantly associated with,LUAD,Lung Cancer,41620594
+S100P,significantly associated with,LUAD,Lung Cancer,41620594
+TRPA1,significantly associated with,LUAD,Lung Cancer,41620594
+F2RL1,significantly associated with,LUAD,Lung Cancer,41620594
+FBN2,significantly associated with,LUAD,Lung Cancer,41620594
+ADRB2,linked to,poor prognosis,Lung Cancer,41620366
+MTN,suppressing,migration,Lung Cancer,41620366
+KRAS,associated with,CDKN2A,Lung Cancer,41619904
+KRAS,associated with,STK11,Lung Cancer,41619904
+circ_0001839,potentiates the oncogenic effects of,MYCL,Lung Cancer,41619596
+Fdft1,correlate well with,DAPL1,Lung Cancer,41619017
+Pcyt1a,correlate well with,DAPL1,Lung Cancer,41619017
+Sptlc1,correlate well with,DAPL1,Lung Cancer,41619017
+Np63,activates,DAPL1,Lung Cancer,41619017
+GRα,activates,DAPL1,Lung Cancer,41619017
+ALK,associated with,Lung cancer,Lung Cancer,41618999
+NRAS,associated with,Lung cancer,Lung Cancer,41618999
+NF1,associated with,Lung cancer,Lung Cancer,41618999
+BRAF,associated with,Lung cancer,Lung Cancer,41618999
+FGFR1OP,associated with,Lung cancer,Lung Cancer,41618999
+FGFR1,associated with,Lung cancer,Lung Cancer,41618999
+STK11ip,associated with,Lung cancer,Lung Cancer,41618999
+AKT1,associated with,Lung cancer,Lung Cancer,41618999
+AK1S1,associated with,Lung cancer,Lung Cancer,41618999
+RGPD1,associated with,RGPD2,Lung Cancer,41618404
+MIR1974,associated with,KIAA0825,Lung Cancer,41618404
+ZNF74,associated with,cg08976633,Lung Cancer,41618404
+RORγ,binds to,NGF,Lung Cancer,41618384
+RORγ,stimulates,NGF,Lung Cancer,41618384
+TP53,coexisting mutations with,microbial infections,Lung Cancer,41618144
+EGFR,commonly found in,patients without microbial infections,Lung Cancer,41618144
+TP53,associated with,Klebsiella pneumoniae infection,Lung Cancer,41618144
+EGFR,observed exclusively in,cases with Candida albicans and Pseudomonas aeruginosa infections,Lung Cancer,41618144
+EGFR,associated with,better objective response rate to EGFR tyrosine kinase inhibitors,Lung Cancer,41618144
+LIF,correlates with,hypoxia,Lung Cancer,41617990
+LIF,correlates with,glucose deprivation,Lung Cancer,41617990
+LIF,correlates with,angiogenesis,Lung Cancer,41617990
+BECN1,correlated with,HoCIC,Lung Cancer,41617944
+STK11/LKB1,induces,GDF15,Lung Cancer,41617691
+STK11/LKB1,reverses,GDF15,Lung Cancer,41617691
+EGFR,associated with,TP53,Lung Cancer,41617518
+EGFR,associated with,CTNNB1,Lung Cancer,41617518
+EGFR,associated with,HER2/ErbB2,Lung Cancer,41617518
+EGFR,associated with,PTEN,Lung Cancer,41617518
+CXCL8,increased,TNF,Lung Cancer,41615694
+CXCL8,increased,IL1α,Lung Cancer,41615694
+CXCL8,increased,GM-CSF,Lung Cancer,41615694
+EGR1,increased,TNC,Lung Cancer,41615694
+EGR1,increased,COL1A1,Lung Cancer,41615694
+EGR1,increased,CTGF,Lung Cancer,41615694
+TRIM46,positively associated with,DDP resistance,Lung Cancer,41614410
+TRIM46,activated,Akt signaling,Lung Cancer,41614410
+TRIM46,inhibiting the expression of,caspase 3,Lung Cancer,41614410
+TRIM46,inhibiting the expression of,cleaved-caspase 3,Lung Cancer,41614410
+TRIM46,increasing the expression level of,DNA repair protein RAD51,Lung Cancer,41614410
+MLH1,loss of,PMS2,Lung Cancer,41613130
+SAMHD1,regulates,DUSP6-ERK1/2,Lung Cancer,41611242
+Il17a,identifying,IL-17A,Lung Cancer,41610471
+hMOF,activating,H4K16ac,Lung Cancer,41609096
+curcumin,interact with,hMOF,Lung Cancer,41609096
+FUBP3,interacts with,STAT3,Lung Cancer,41609084
+FUBP3,upregulating,Twist1,Lung Cancer,41609084
+FUBP3,correlated with,Twist1,Lung Cancer,41609084
+PARK2,associated with,lung cancer,Lung Cancer,41606524
+TP53,associated with,lung cancer,Lung Cancer,41606524
+PDLIM5,correlated with,poor patient survival,Lung Cancer,41605926
+Pdlim5,interacts with,ACTN1/ACTN4,Lung Cancer,41605926
+RNF125,bound to,DDX5,Lung Cancer,41605025
+RNF125,enhanced,DDX5,Lung Cancer,41605025
+RNF125,reduced,DDX5,Lung Cancer,41605025
+RORA,promotes,ZNF490,Lung Cancer,41603184
+ZNF490,inhibits,NUDFs,Lung Cancer,41603184
+EGFR,reduced,ALR2,Lung Cancer,41599651
+ER,associated with,EGFR,Lung Cancer,41597172
+EGFR,correlation between,mutant EGFR,Lung Cancer,41597172
+miR-542-3p,differed significantly between,lung-cancer patients,Lung Cancer,41596268
+miR-29a-3p,highlighting,miR-542-3p,Lung Cancer,41596268
+AXL,blocked,FGFR1,Lung Cancer,41595602
+AXL,inhibited,FGFR1,Lung Cancer,41595602
+KRAS,co-occurrence of,TP53,Lung Cancer,41595141
+TP53,associated with,KRAS,Lung Cancer,41595141
+SMARCA4,co-mutations,TP53,Lung Cancer,41593906
+SMARCA4,co-mutations,EGFR,Lung Cancer,41593906
+SMARCA4,occurred in samples carried,EGFR,Lung Cancer,41593906
+SMARCA4,occurred in samples carried,TP53,Lung Cancer,41593906
+SMARCA4,conferred a poorer response for,EGFR,Lung Cancer,41593906
