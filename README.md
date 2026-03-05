@@ -124,8 +124,8 @@ PubMed Pathway Validation
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/lung-cancer-kg.git
-cd lung-cancer-kg
+git clone https://github.com/ManushreeBihade/Lung-Cancer-Knowledge-Graph.git
+cd Lung-Cancer-Knowledge-Graph
 ```
 
 Create a virtual environment:
