@@ -124,7 +124,7 @@ PubMed Pathway Validation
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/lung-cancer-kg.git
+git clone https://github.com/YOUR_USERNAME/Lung-Cancer-Knowledge-Graph.git
 cd lung-cancer-kg
 ```
 
